@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/sunhui/.android/build-cache/722b4839bf9cec542214cdda0ab151d81113afe1/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/sunhui/.android/build-cache/722b4839bf9cec542214cdda0ab151d81113afe1/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

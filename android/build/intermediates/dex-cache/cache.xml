@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_d6356231773e4f1bfe51d2170003b694ab94f09b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.android/build-cache/068a34d2a30d6bc203cde46d39fd3c40049a4f9f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/classes_cef2b713021070f215e44537cee46151cfc08ff9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.android/build-cache/01867e3afcdce9fd5d03c7cca4bfe0d0d2abd26d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/classes_4a1f4cb5ac604d1ad76f5b9ea1b41f78b2fb3a02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_f476aa5bd17eb15f686c253bc4c43aabf19f8615.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.android/build-cache/56f215d04cb4bd8f6f6bbc3e65f846431482cab8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/classes_fae32262f7e2e09a65060d94df77c78bb99635e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.android/build-cache/0bd0d5947db3fb94ab705d43c698ffaa36182fff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/classes_c323335bc77ebf43b30314e0be8e23547b0508a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.android/build-cache/d8472653a517aa4a7b844195e8dd0f8ccb3cce88/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/classes_7e3fd6f93d4eb4781a8592c26783ee147c5c7cfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_7220636a3fbc74718a29aaa7a2b4362c2a54165d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.android/build-cache/08ce8542cfcf8b44f7de0002f5e98ef5b3c696fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/classes_24f5e11e58fe3686046ba1e07e61da50154fedab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.android/build-cache/b036f5ced5798a402cee5b93b8aefaa00ceeb6e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/classes_d08da8beb065cfe2f1fee1275662e9b412578ae5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.android/build-cache/8b129cf28bcf8090e4dc69a6a47667eb474aede7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/classes_053b94269b861ac8fb8d2cb6c7090e7aba15e148.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.android/build-cache/f5f5c440f1b263117b6cb848e1aa74fbf45c0089/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/classes_9e86cfb32f7338ec44fbfc733c6f4b7e87811825.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_2fefd3f2140097acfd6c18ad0d27bfe1f7d7e154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_2615bcc9286689cefc20404c4e456e0164876621.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e77827789a3d5ad6a02b89d4a0e9efb308a96c47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_364e4c7a4e0210499a83475a49329eb14642cb94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.android/build-cache/722b4839bf9cec542214cdda0ab151d81113afe1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/classes_2aaf588107e45a51c9cc166036d5b733c69220d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.android/build-cache/0e5ab6852cb33e511e18f33fdc500fd46b382897/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/classes_7b93a7147bd4aacee25bca3719ef44886b489709.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.android/build-cache/951d787916c12865c44fa0422cdd2ad73c3aba12/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/classes_aa356dfadc76fc3b4484fc8670618a93166d0fb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.android/build-cache/bde22b05220fb24b16cadde62acc5c43d51cb9e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/classes_81485782e3d1a36730c668057770b2f353c18aa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.android/build-cache/b67d0a3111153240fe11a5d09e2206ad1af536cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/classes_793b41e1d68e7a66857241425ad3164d491dbe06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.android/build-cache/6ebabcdf5d1185f8267d3936ec746f0b8f0f5421/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/classes_8608efe772770cd7b07ec84a34e46ecd2fb455f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.android/build-cache/d72843d7a990b98d0d3f77902c004bdd0d9532f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/classes_accc114d6375cfd571840adb6173b7db50ce84f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_561c86ef435b65394b9e2ffc9e5743f4b772ce31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.android/build-cache/643c3e3eabbd799bf1099d5875c54a04fb5366f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/classes_057a698776470c3b66be1e17c811c66685e3357a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.android/build-cache/10bc4806e8a3bad9a203ac5cd0b7f42938cdb68e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/classes_02cd4f184edb4e83b169b87652c6e0235154d7b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.android/build-cache/951d787916c12865c44fa0422cdd2ad73c3aba12/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_b2849ca85e95f9a0d67879c0a099616e1279b565.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_ad9b188ce7c24ae665a76ec401030a34a04e5ab4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.android/build-cache/d0117938b027425872f696da7733cf4c5360d75a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/classes_32c62488402ccfd9db77e955e28ad0a42e23e187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sunhui/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/sunhui/egretwork/reference/share/demo/lifecycledemo/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_a009647042ea6f434e12be92a8046d7458bda2e9.jar" />
+    </item>
+
+</items>
